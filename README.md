@@ -1,6 +1,3 @@
-# 📝 Root `README.md`
-
-
 # Early Warning Detection of Liquidity Stress in Cryptocurrency Markets
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
